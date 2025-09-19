@@ -56,5 +56,5 @@
 ### 📫 Let’s Connect  
 <p>
   <a href="mailto:akhilgupta003@gmail.com"><img src="https://img.shields.io/badge/Email-akhilgupta003%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/gupta-akhil/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
